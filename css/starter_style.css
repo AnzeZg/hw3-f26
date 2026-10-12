@@ -95,7 +95,7 @@ footer{
    }
 
   /*Turn off parallax*/
-  header{
+  .overview{
     background-attachment: initial;
   }
 }
